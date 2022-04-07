@@ -7,5 +7,6 @@
 <body>
     <h2>This is our github practice!</h2>
     <h5>I think I understand this?</h5>
+    <p>Cool! This is working!</p>
 </body>
 </html>
