@@ -5,7 +5,7 @@
   <title>Git Practice!</title>
 </head>
 <body>
-    <h2>This is our github practice!</h2>
+<h2><strong>This is our github practice!</strong></h2>
     <h5>I think I understand this?</h5>
     <p>Cool! This is working!</p>
 </body>
